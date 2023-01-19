@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "gds-challenge"
+version = "1.0.0"
+description = ""
+authors = ["growficient"]
+readme = "README.md"
+packages = [{include = "gds_challenge"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.2"
+jupyterlab = "^3.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
