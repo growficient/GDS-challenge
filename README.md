@@ -7,13 +7,14 @@ as a precursor-look towards your data scientist skills
 ## Introduction
 
 It is the beginning of 2013, and you're a new stock trader looking to make some
-quick bucks. You've found something that piqued your interest, namely coin "X". 
-With an asset of your choosing, you're now almost
+quick bucks. You've found something that piqued your interest, namely "coin X". 
+You managed to scrape together some historical exhange-rates of coin X and 
+another coin, and now you're almost
 ready to hedge your bets. But there's a problem, the finance tool 
-you've been using has stopped working! Without this you can't tell how much 
-the price is changing, and you have no graphs to inspect anymore.
+you've been using has stopped working! Without this you can't tell how 
+the price is evolving, and you have no graphs to inspect anymore.
 While you wait for it to be fixed, you are left with only one solution, to
-predict the future.
+predict the future, because how else are you going to get rich?
 
 ## Tasks
 
