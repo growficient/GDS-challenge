@@ -25,7 +25,7 @@ asset X up until the end of 2017.
 
 1. Fork this repository
 2. Install the dependencies (python 3.10+ currently) using the Poetry package manager
-3 Continue below
+3. Continue below
 
 ### Checklist
 
