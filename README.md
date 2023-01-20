@@ -21,6 +21,12 @@ predict the future, because how else are you going to get rich?
 Your task is to implement a forecasting model to predict the future prices of
 asset X up until the end of 2017.
 
+### How to start
+
+1. Fork this repository
+2. Install the dependencies (python 3.10+ currently) using the Poetry package manager
+3 Continue below
+
 ### Checklist
 
 1. Clean and inspect your datasets, and describe your steps.
